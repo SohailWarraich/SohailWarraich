@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @SohailWarraich
-- 👀 I’m interested in Deep Learning/Computer vision
-- 🌱 I’m currently learning/working on computer vision
-- 💞️ 
-- 📫 you can contact me on arshadsohail092@gmail.com
+# Hi there! 👋
 
-<!---
-SohailWarraich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I'm Sohail Arshad, an MLOps Engineer at i5o. 
+
+- 👨‍💻 I specialize in deploying and managing Deep learning models in production environments.
+- 🤖 I'm passionate about leveraging Deep Learning and Computer Vision to solve real-world problems.
+- 🌱 Currently, I'm exploring advanced techniques in image classification, object detection, and image segmentation.
+- 💼 In my role at i5o, I collaborate with cross-functional teams to optimize model performance and scalability.
+- 📈 I believe in continuous learning and staying updated with the latest trends in AI and ML.
+- 📫 Feel free to reach out to me at arshadsohail092@gmail.com for collaborations or discussions.
+
+Let's connect and innovate together!
 --->
