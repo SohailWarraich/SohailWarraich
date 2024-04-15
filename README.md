@@ -10,7 +10,7 @@ I'm Sohail Arshad, an MLOps Engineer at i5o.
 - 💬 Ask me about Pytorch, Computer-Vision, Python, Model Training and Evaluation
 - 📈 I believe in continuous learning and staying updated with the latest trends in AI and ML.
 - 👨‍💻 All of my projects are available at https://github.com/SohailWarraich
-- 📄 Check out my experience: [View Resume] (https://drive.google.com/file/d/1iVEPyk00-IuamtPCIzBKQTMJNwSM-uVl/view?usp=sharing)
+- 📄 Check out my experience: [View Resume](https://drive.google.com/file/d/1iVEPyk00-IuamtPCIzBKQTMJNwSM-uVl/view?usp=sharing)
 - 📫 Feel free to reach out to me at arshadsohail092@gmail.com for collaborations or discussions.
 
 Let's connect and innovate together!
