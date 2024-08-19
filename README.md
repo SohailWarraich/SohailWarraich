@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Sohail Arshad, MLOps Engineer at i5o. 
+I'm Sohail Arshad, computer vision Engineer at i5o. 
 
 - 👨‍💻 I specialize in deploying and managing Deep learning models in production environments.
 - 🔭 I’m currently working on Training and Deploying Yolov8
